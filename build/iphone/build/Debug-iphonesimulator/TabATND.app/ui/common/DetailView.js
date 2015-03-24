@@ -1,0 +1,1 @@
+/Users/hayashi/Documents/Titanium_Studio_Workspace/TabATND/Resources/ui/common/DetailView.js
